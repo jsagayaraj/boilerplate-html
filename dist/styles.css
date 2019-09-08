@@ -1,0 +1,12 @@
+.container {
+  border: 2px solid green;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  text-align: center; }
+  .container h1 {
+    color: red; }
+  .container p {
+    color: gray;
+    font-size: 20px; }
+

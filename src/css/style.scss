@@ -1,0 +1,21 @@
+
+$text-color : gray;
+$primary: red;
+
+
+
+.container{
+    border:2px solid yellowgreen;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    h1{
+        color: $primary;
+    }
+    p{
+        color: $text-color;
+        font-size: 20px;
+    }
+}
+
